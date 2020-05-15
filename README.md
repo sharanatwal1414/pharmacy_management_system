@@ -15,4 +15,3 @@ This micro services communicate with the database and once the task is completed
 -CSS3
 -Material-ui
 -JavaScript
--Kotlin
